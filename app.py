@@ -7,6 +7,7 @@ from datetime import datetime
 import yfinance as yf
 import os
 from math import factorial
+from streamlit.components.v1 import html
 # Sidebar
 with st.sidebar:
     # Información del proyecto
